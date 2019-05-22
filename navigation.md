@@ -57,20 +57,20 @@
   * CS-Rosetta Structure Calculation
 * Data
   * Data access methods (new page with overview of all data types and access methods)
-  * By type
-    * New Entries
+  * By type (how about two options - access by molecule type or by data type)
+    * New Entries  (ambiguous….could mean make a new entry or recent entries)
     * Entries on Hold
-    * Withdrawn Entries
-    * Macromolecules types
+    * Withdrawn Entries   (need to make these accessible?)
+    * Macromolecules types (generalize to molecular types)
     * NMR spectral parameters
-    * Restraints with atomic coordinates and chemical shifts
+    * Restraints with atomic coordinates and chemical shifts (confusing)
     * Kinetics
     * Thermodynamics
     * Small molecule structures
     * Time-domain sets
     * Solid-state NMR
     * Unfolded proteins
-    * Binding Data
+    * Binding Data (should be closely related to thermodynamic data)
     * Entries relating to human diseases
     * Human Genes
     * Relational tables
@@ -115,5 +115,3 @@
     * IUPAC 2001
     * IUPAC 2008
   * Structural genomics (and SG projects)
-
-* Unassigned
