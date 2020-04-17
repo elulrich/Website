@@ -8,6 +8,7 @@
     * BMRB Description
     * BMRB Staff
     * BMRB Mission Statement
+    * BMRB Policies**
    * Mirror sites (disable link based on location?)
      * Madison
      * Osaka
@@ -16,14 +17,23 @@
      * NMRFAM
      * HTCondor
      * PDBj-BMRB
+     * PDBe**
+     * RCSB-PDB**
      * NMRbox
-   * Events (Can we just make this a page w/ links rather than direct links?)
-     * ISMAR
-     * ICMRBS
-     * ENC
-     * EUROMAR
-     * PANIC
-   * Links (pulls "NMR Wiki" and "WeNMR" links into main links page)
+     * CCPN**
+     * wwPDB**
+   * Community?** (new link from main page)
+     * News
+     * Mailing list
+     * Jobs
+     * Announcements
+     * Events (Can we just make this a page w/ links rather than direct links?)
+       * ISMAR
+       * ICMRBS
+       * ENC
+       * EUROMAR
+       * PANIC
+     * Links (pulls "NMR Wiki" and "WeNMR" links into main links page)
 * Deposit
   * About BMRB deposition systems
   * Data accepted
@@ -47,7 +57,7 @@
   * Interactive Visualizations (PyBMRBVis)
   * RMBRB Tool
   * MolProbity results
-* Analyze
+* Services** (was 'Analyze' - dangerous term as a data repository technically not allowed to 'analyze')
   * Validation tools
   * Statistics and visualizations
     * NMR Statistics
@@ -55,15 +65,18 @@
     * Chemical shift statistics CSV files (these don't seem to be updated)
   * Coordinates versus Assigned chemical shifts (duplicated w/ Deposit)
   * CS-Rosetta Structure Calculation
-* Data
+* Data *** (This really all goes under 'Search' or maybe 'Access' In away, much of this represents the results from 'canned' queries)
   * Data access methods (new page with overview of all data types and access methods)
   * By type (how about two options - access by molecule type or by data type)
-    * New Entries  (ambiguous….could mean make a new entry or recent entries)
-    * Entries on Hold
-    * Withdrawn Entries   (need to make these accessible?)
+  * Entries by status** (need a better term but these are a separate category from others below)
+    * Recent Entries**  (ambiguous….could mean make a new entry or recent entries)
+    * On Hold entries**
+    * Withdrawn entries**   (need to make these accessible? No withdrawn because authors do not want the data accessible.)
+  * Entries by subclass
+    * 
     * Macromolecules types (generalize to molecular types)
     * NMR spectral parameters
-    * Restraints with atomic coordinates and chemical shifts (confusing)
+
     * Kinetics
     * Thermodynamics
     * Small molecule structures
@@ -71,9 +84,12 @@
     * Solid-state NMR
     * Unfolded proteins
     * Binding Data (should be closely related to thermodynamic data)
+  * Entries integrated with
     * Entries relating to human diseases
     * Human Genes
-    * Relational tables
+  * Data in other forms
+    * BMRB entry data combined with restraints and atomic coordinates (confusing) Less confusing??**
+    * Full database as Relational tables**
     * NMR Restraints from PDB MR Files
   * API
   * CS-Rosetta structures for BMRB entries
@@ -92,17 +108,18 @@
       * CCPN Data Model
       * PDB File Format
   * Programmers corner
-    * BioMagResBank GitHub page
+    * BioMagResBank GitHub page*** (should this be put under 'Community'?)
     * PyNMRSTAR library
     * SANS parsers
-  * Spectroscopists corner
+  * Spectroscopists corner (possibly put this all or parts marked with (***) under 'Community'?)
     * Spectroscopists' Corner
+    * NMR groups***
     * Published studies utilizing the BMRB database
     * Defined Standards
     * NMR Experiments
     * NMR Software
-    * Wishart Research Group webservers
-    * Academic and commercial software
+    * Wishart Research Group webservers***
+    * Academic and commercial software***
   * Educational outreach
     * Molecular highlights
     * Macromolecule NMR
@@ -114,4 +131,4 @@
     * IUPAC 1998
     * IUPAC 2001
     * IUPAC 2008
-  * Structural genomics (and SG projects)
+  * Structural genomics (and SG projects) (may be able to eliminate as these projects are mostly decommisioned)
