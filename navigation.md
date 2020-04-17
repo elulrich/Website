@@ -2,8 +2,6 @@
 
 * About
   * Citing BMRB
-  * News
-  * Mailing list
   * About BMRB
     * BMRB Description
     * BMRB Staff
@@ -22,18 +20,19 @@
      * NMRbox
      * CCPN**
      * wwPDB**
-   * Community?** (new link from main page)
-     * News
-     * Mailing list
-     * Jobs
-     * Announcements
-     * Events (Can we just make this a page w/ links rather than direct links?)
-       * ISMAR
-       * ICMRBS
-       * ENC
-       * EUROMAR
-       * PANIC
-     * Links (pulls "NMR Wiki" and "WeNMR" links into main links page)
+ * Community?** (new link from main page)
+   * News
+   * Mailing list
+   * Jobs
+   * Announcements
+   * Events (Can we just make this a page w/ links rather than direct links?)
+     * ISMAR
+     * ICMRBS
+     * ENC
+     * EUROMAR
+     * PANIC
+   * NMR Wiki** 
+   * WeNMR**
 * Deposit
   * About BMRB deposition systems
   * Data accepted
@@ -72,11 +71,9 @@
     * Recent Entries**  (ambiguous….could mean make a new entry or recent entries)
     * On Hold entries**
     * Withdrawn entries**   (need to make these accessible? No withdrawn because authors do not want the data accessible.)
-  * Entries by subclass
-    * 
+  * Entries by subclass**
     * Macromolecules types (generalize to molecular types)
     * NMR spectral parameters
-
     * Kinetics
     * Thermodynamics
     * Small molecule structures
