@@ -11,7 +11,7 @@
      * Madison
      * Osaka
      * Florence
-   * Collaborators (Can we just make this a page w/ links rather than direct links?)
+   * Collaborators (Can we just make this a page w/ links rather than direct links?) Yes
      * NMRFAM
      * HTCondor
      * PDBj-BMRB
@@ -56,7 +56,7 @@
   * Interactive Visualizations (PyBMRBVis)
   * RMBRB Tool
   * MolProbity results
-* Services** (was 'Analyze' - dangerous term as a data repository technically not allowed to 'analyze')
+* Services** (was 'Analyze' - dangerous term as a data repository technically not allowed to 'analyze' data in the repository)
   * Validation tools
   * Statistics and visualizations
     * NMR Statistics
@@ -71,7 +71,7 @@
     * Recent Entries**  (ambiguous….could mean make a new entry or recent entries)
     * On Hold entries**
     * Withdrawn entries**   (need to make these accessible? No withdrawn because authors do not want the data accessible.)
-  * Entries by subclass**
+  * Entry specialty categories**
     * Macromolecules types (generalize to molecular types)
     * NMR spectral parameters
     * Kinetics
@@ -80,9 +80,9 @@
     * Time-domain sets
     * Solid-state NMR
     * Unfolded proteins
-    * Binding Data (should be closely related to thermodynamic data)
+    * Binding Data (should be closely related to thermodynamic data) yes, should go under thermodynamics
   * Entries integrated with
-    * Entries relating to human diseases
+    * Entries related to human diseases
     * Human Genes
   * Data in other forms
     * BMRB entry data combined with restraints and atomic coordinates (confusing) Less confusing??**
